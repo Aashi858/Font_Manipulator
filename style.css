@@ -1,0 +1,53 @@
+.btn-warning{
+    width: 100%;
+    margin-top: 0px;
+    box-shadow: 5px 5px 5px slategrey;
+}
+.heading{
+    font-size: 30px;
+    font-family: 'Courgette', cursive;
+    color: aliceblue;
+}
+.note{
+    font-family: Georgia, serif;
+    font-size: 15px;
+}
+#footer{
+    width: 100%;
+    line-height: 20px;
+    bottom: 0px;
+    background:lightsalmon;
+    text-align: center;
+    position: fixed;
+}
+canvas{
+    border-radius: 15px;
+    border-color: whitesmoke;
+    box-shadow: 5px 5px 5px slategrey;
+}
+#word{
+    margin-top: 400px;
+    margin-right: 800px;
+    width: 25%;
+    height: 30px;
+    box-shadow: 5px 5px 5px slategrey;
+}
+#display{
+    background-color:lightcoral;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: -50px;
+    margin-right: 300px;
+    box-shadow: 5px 5px 5px slategrey;
+}
+video{
+    border-color: khaki;
+    border-width: 5px;
+    border-style: groove;
+    box-shadow: 5px 5px 5px slategrey;
+}
